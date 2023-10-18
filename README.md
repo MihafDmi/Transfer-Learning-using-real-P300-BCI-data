@@ -1,4 +1,4 @@
-# An-Example-of-Transfer-Learning-using-real-P300-BCI-data
+# Example-of-Transfer-Learning-using-real-P300-BCI-data
 This example compares the classification performance of linear support vector machine (LinearSVC) on the Riemannian Transfer Learning method (RPA, Rodrigues et al., 2018) and the golden-standard subject-wise train-test cross-validation method using real P300 BCI data.
 ## Dependencies
 - Make sure that the code is at least running on Python 3.11
